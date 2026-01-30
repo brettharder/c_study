@@ -8,3 +8,4 @@
 - `make bench`     # builds/runs benchmarks
 - `make clean`     # removes build artifacts
 
+test
