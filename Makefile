@@ -95,4 +95,3 @@ print-vars:
 	@echo "APP_MAIN=$(APP_MAIN)"
 	@echo "LIB_C=$(LIB_C)"
 	@echo "OBJ_LIB=$(OBJ_LIB)"
-
